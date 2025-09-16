@@ -334,13 +334,6 @@ cargo test --release
 
 MIT License - see LICENSE.md for full details
 
-## Support
-
-- **Documentation**: https://docs.miningsim.io
-- **Discord Community**: https://discord.gg/miningsim
-- **GitHub Issues**: Bug reports and feature requests
-- **Email Support**: support@miningsim.io
-
 ## Disclaimer
 
 This software is for educational and simulation purposes only. Cryptocurrency mining involves significant financial risks, and past performance does not guarantee future results. Users are responsible for their own investment decisions and should consult with financial advisors before making significant investments in mining hardware or operations.
